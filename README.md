@@ -22,6 +22,12 @@ Currently, the locations implemented in the AP World include:
 - `Beg 1` & `Beg 2` - These moves allow Jake to perform different beg moves once the Player wins a Doggy Do challenge. Currently, these do nothing but they're cute and fun.
 - `Train Ticket: Lake Minniwahwah` - A necessary item to goal. Collecting this gives the Player the right to board the train in `Clarksville - Centre` to Lake Minniwahwah.
 
+To assist with the fact that this doesn't inherently mod or patch the game and thus cannot dynamically change the Player's "bone power" level, it's worth noting that the game has a Cheat menu that allows the Player to change it themselves, a value the game calls "Dog status". To access it, the Player should input the following sequence.
+
+`Square (Bark) x3, Hold Square (Growl) x3, D-Pad Left-Right-Down (Break Wind)`.
+
+This can be used to keep the Player's number of collected bones in line with their current number of Progressive Bone items.
+
 ## Goal Requirements (Clarksville Demo)
 In the current demo of the Dog's Life manual, the goal is reached when the Player departs for Lake Minniwahwah. A handful of items are required in order to make this possible.
 - `16+ Progressive Bones` are required to surpass the Doberman guarding the train station.
